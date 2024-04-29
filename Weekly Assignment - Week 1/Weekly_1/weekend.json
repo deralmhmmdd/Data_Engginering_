@@ -1,0 +1,26 @@
+{
+    "table_name": "weekend",
+    "columns": [
+      {
+        "name": "Source",
+        "type": "varchar(225)"
+      },
+      {
+        "name": "Target",
+        "type": "varchar(225)"
+      },
+      {
+        "name": "Weight",
+        "type": "float"
+      },
+      {
+        "name": "typeTrans",
+        "type": "varchar(225)"
+      },
+      {
+        "name": "fraud",
+        "type": "int"
+      }
+    ]
+  }
+  

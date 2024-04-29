@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: taxi_tripdata
+    tables:
+      - name: taxi_tripdata
+        columns:
+          - name: DOLocationID
+            tests:
+              - not_null
+          - name: store_and_fwd_flag
+            tests:
+              - accepted_values:
+                  values: ["N", "Y"]
+          - name: payment_type
+            tests:
+              - not_null

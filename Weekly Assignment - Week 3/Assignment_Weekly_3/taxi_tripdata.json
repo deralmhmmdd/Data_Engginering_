@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "modern-bond-419110",
+  "private_key_id": "46c7b890cf02af921a6756e5af7266dadf15a354",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKu6v3PiiE+c40\n0VO4EJ8yW4jKE9lYaDbMKkEpb9MJ/A5AC6b9uVirAYnDGuN7kV69f5kzmJVRJn1M\nn9cnqBL75i+CZAlUHJn+ibGjMYGXmqHnarstf3jelaBNVr1nkiHBzRtmKSzCNdyw\ngiSrcOefO1qyzyAKb8R974jR9iwlWxyKZ4CDdPG0wlNjzhcPz9rxw12bDAdZqMSb\ncx8ZPXbH4z0hiMoWjWj9ZTOpokT/oWaOc77Ym3U9Lxt5suHps9HuXa2g9VG8USL5\nFTAXSAqD8aF64OYVx94nHi8fhpFClJWuWaFbzwQ0TDVrjESyG/J/F66dYayem/r/\n3mCxLXgrAgMBAAECggEABjWwM12H18x5bXkjJSMuzSSsNvLB5VXwpiZKyRGJl4FN\nKnCkIWdsLA8nzUsYjRaYN7O3cv+8d+tDsUImg/dykjasKkR7W93+zyLs+jOwMkv+\nCfZlKPECBPqOTQm+hkEEOa+mCpk+RSCc07QMALHvoxsqHXBmUD65XqYko1HBnmjZ\navePLDhg0oabVglU6d8OuKgQ7s2oQvjbxgc1mtsv4aY9qMQ3P/vtnUVeNQbxZb8w\nCQvTlJ0K2kR/eAPqbdtrNKd/79fLIBBu/LOQ8A9+cJACKz+/vzlDCftM0nBxlBNQ\n7b3qcKs1fEvVW3C5b9ZnHSxgL4sYbXkOodKPzMXQ0QKBgQD5q8Vmcv/YZMy9hRgs\ncgwthYf+zBJSFYEQ9ip9+H8fvddEtdQm0c96PHvLZwKbsN4bs3HdMc/kq3Vw7mmJ\n8z+jPQg85PCnbc3iMkwYOndHqN5pUt1X4BojZP0lD9T0BwUIyAxly7ZqB/6j9KPT\nKAtBFrxne6xiI56acFpgNZ7/MwKBgQDP30ydWCj1ikl3LmGtgSAPTIEntR0tmRlZ\nWDu+rjlpoNIIg4s2663WujS9reGXHFcTBPTLLQ3LXwbAl46CW0V/xAqbpGitSJM9\nD5wsPPe4kd4moGkyKdFAOUYMKRbK8vWspZAPSX2CIiL3jdpHLeiHH1KPZkHHlu7g\naQC/P2MDKQKBgQCieAPZ2iXhFB8jiPOlIIYKLWXFCdk2LyYw+m/GT6mx5yCpZsVq\niYfBHJDWWO8aj2rJjekfrqWBQY4H8i0dhvw3ZqTws25jFZIvitl3vrwWFq68zR6a\na4u20qXkszu5nMPK5hsjNwA6WX98A9uDsgA41+m8UX9o0ZMJHunAx8PyfwKBgHyA\n/W18gUPX6Pq2UBDQtzgSlYUH6IsIGPO3cklaJs8KYOJyj258qKlk6/Pz8ptEgS7G\nGCydNpbpuqyd2eBf9Hd7HvNr/LpVLsMy11JzzdfBnnI6P+eovkkeRMNB1QIHlXgr\nzeYqGT9ZXOIzF1rst0o/S37SO3HlB/xnR+hEefRJAoGBAPKPrwG2Oe/Xy9Vsq14k\nH1h12+yX1Fp4iEdxu754s6gu1G328Yg4RbpiVGF2mgoiKmgk6btqdYJtt7V3JZu/\nuqN5AOxHL52ozrcyIA2UVo0ib6poQ0HRIrigznKlGhnn6xESnkOdKt6fqDHvMwKO\nrrXU0tcGObHsI+HlpVzwGfZ5\n-----END PRIVATE KEY-----\n",
+  "client_email": "taxi-tripdata@modern-bond-419110.iam.gserviceaccount.com",
+  "client_id": "114064312677921604165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taxi-tripdata%40modern-bond-419110.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

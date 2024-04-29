@@ -1,0 +1,71 @@
+[0m14:19:22.796355 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000195D2AD96D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000195D2AD99D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000195D2AD9730>]}
+
+
+============================== 14:19:22.807261 | b3e0fd52-e0ca-4780-8cad-c1f33250f74b ==============================
+[0m14:19:22.807261 [info ] [MainThread]: Running with dbt=1.7.13
+[0m14:19:22.809874 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\User\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt init', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m14:19:54.974229 [debug] [MainThread]: Starter project path: c:\Users\User\Downloads\SEMUA FOLDER DOWNLOAD\FILE DONWLAODS\ALL PELATIHAN\DATA ENGGINEER IYKRA\Training Data Fellowship 12\.venv\Lib\site-packages\dbt\include\starter_project
+[0m14:19:55.064090 [info ] [MainThread]: 
+Your new dbt project "Assignment_Weekly_2" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m14:19:55.067091 [info ] [MainThread]: Setting up your profile.
+[0m14:21:01.421299 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223C9DB8CB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223C9DB8BF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223C9DB8BC0>]}
+
+
+============================== 14:21:01.431299 | 28cbf0fe-8ca8-475f-89e9-abf7ba6bfc84 ==============================
+[0m14:21:01.431299 [info ] [MainThread]: Running with dbt=1.7.13
+[0m14:21:01.433298 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\User\\.dbt', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m14:21:16.222026 [debug] [MainThread]: Starter project path: c:\Users\User\Downloads\SEMUA FOLDER DOWNLOAD\FILE DONWLAODS\ALL PELATIHAN\DATA ENGGINEER IYKRA\Training Data Fellowship 12\.venv\Lib\site-packages\dbt\include\starter_project
+[0m14:21:16.285351 [info ] [MainThread]: 
+Your new dbt project "Assignment_Weekly_3" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m14:21:16.288665 [info ] [MainThread]: Setting up your profile.
+[0m14:26:09.037612 [info ] [MainThread]: Profile Assignment_Weekly_3 written to C:\Users\User\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m14:26:09.047510 [debug] [MainThread]: Command `dbt init` succeeded at 14:26:09.047510 after 307.94 seconds
+[0m14:26:09.053730 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223C9B8C4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223D4D24590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000223C9DEBF80>]}
+[0m14:26:09.054742 [debug] [MainThread]: Flushing usage events
+[0m14:26:21.138938 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBACFF6F60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBADB29EE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBADB29F10>]}
+
+
+============================== 14:26:21.145948 | ed1ef133-fc5a-49ba-acb2-1a26f3f87288 ==============================
+[0m14:26:21.145948 [info ] [MainThread]: Running with dbt=1.7.13
+[0m14:26:21.147970 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\User\\.dbt', 'log_path': 'logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'invocation_command': 'dbt debug', 'send_anonymous_usage_stats': 'True'}
+[0m14:26:21.149983 [info ] [MainThread]: dbt version: 1.7.13
+[0m14:26:21.150981 [info ] [MainThread]: python version: 3.12.2
+[0m14:26:21.152982 [info ] [MainThread]: python path: c:\Users\User\Downloads\SEMUA FOLDER DOWNLOAD\FILE DONWLAODS\ALL PELATIHAN\DATA ENGGINEER IYKRA\Training Data Fellowship 12\.venv\Scripts\python.exe
+[0m14:26:21.154983 [info ] [MainThread]: os info: Windows-11-10.0.22621-SP0
+[0m14:26:24.062056 [info ] [MainThread]: Using profiles dir at C:\Users\User\.dbt
+[0m14:26:24.064056 [info ] [MainThread]: Using profiles.yml file at C:\Users\User\.dbt\profiles.yml
+[0m14:26:24.065794 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\User\Downloads\SEMUA FOLDER DOWNLOAD\FILE DONWLAODS\ALL PELATIHAN\DATA ENGGINEER IYKRA\Weekly Assignment - Week 3\dbt_project.yml
+[0m14:26:24.067883 [error] [MainThread]: Encountered an error:
+Internal Error
+  Profile should not be None if loading profile completed
+[0m14:26:24.070941 [debug] [MainThread]: Command `dbt debug` failed at 14:26:24.070941 after 3.28 seconds
+[0m14:26:24.071936 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBAD96D3D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBAD845610>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001FBB896A9C0>]}
+[0m14:26:24.071936 [debug] [MainThread]: Flushing usage events
